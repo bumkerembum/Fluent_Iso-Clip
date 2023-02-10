@@ -8,5 +8,5 @@ To do list before runnig the code:
 5. Run the code.
 
 *************
-I have only tried this code on 1920*1080 screen. For the other size of screens, the code needs and confirmation
+I have only tried this code on 1920*1080 screen. For the other size of screens, the code needs a confirmation
 *************
