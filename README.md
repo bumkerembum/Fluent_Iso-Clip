@@ -1,3 +1,10 @@
+*************
+The code is not yet complete.
+List to do:
+1. Adding screenshot of targeted panel (ISO-CLIP).
+2. Translate comments in the code to English.
+*************
+
 # Fluent_Iso-Clip
 To automate dividing a plane to equal sized surfaces in Ansys Fluent using ISO-CLIP feature.
 To do list before runnig the code:
